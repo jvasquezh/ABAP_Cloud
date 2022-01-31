@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service Definition - Libreria'
+define service zsd_libreria_2533 {
+  expose z_i_libreria_2533 as libros;
+  expose z_i_cltxlib_2533 as clientes;
+}
